@@ -11,7 +11,7 @@ Cloud Platforms
 
 • AWS (EKS, EC2, ElastiCache, OpenSearch)
 
-Backend Engineering
+**Backend Engineering**
 
 • Java
 
@@ -19,7 +19,7 @@ Backend Engineering
 
 • Microservices Architecture
 
-Distributed Systems
+**Distributed Systems**
 
 • High-scale API platforms
 
@@ -27,7 +27,7 @@ Distributed Systems
 
 • Service resiliency patterns
 
-Data & Search
+**Data & Search**
 
 • Redis / Valkey
 
@@ -35,13 +35,13 @@ Data & Search
 
 • Oracle SQL
 
-Streaming & Messaging
+**Streaming & Messaging**
 
 • Kafka
 
 • Event-Driven Architecture (EDA)
 
-Platform Engineering
+**Platform Engineering**
 
 • Kubernetes
 
@@ -51,7 +51,7 @@ Platform Engineering
 
 • Terraform
 
-Observability
+**Observability**
 
 • AppDynamics
 
