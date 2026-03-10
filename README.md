@@ -1,4 +1,4 @@
-Hi, I'm Sandeep Madaan
+Hi, I'm Sandeep Madaan 👋
 
 Engineering Leader | Cloud Architecture | Distributed Systems | Java • AWS • Kubernetes
 
@@ -14,52 +14,71 @@ Cloud Platforms
 Backend Engineering
 
 • Java
+
 • Spring Boot
+
 • Microservices Architecture
 
 Distributed Systems
 
 • High-scale API platforms
+
 • Event-driven architecture
+
 • Service resiliency patterns
 
 Data & Search
 
 • Redis / Valkey
+
 • OpenSearch / Lucene
+
 • Oracle SQL
 
 Streaming & Messaging
 
 • Kafka
+
 • Event-Driven Architecture (EDA)
 
 Platform Engineering
 
 • Kubernetes
+
 • Docker
+
 • CI/CD pipelines
+
 • Terraform
 
 Observability
 
 • AppDynamics
+
 • Performance tuning
+
 • P95 / P99 latency optimization
 
 **🏗 Current Focus**
 
 • Cloud modernization of enterprise systems
+
 • Scaling distributed search platforms
+
 • High-performance API architecture
+
 •  Event-driven microservices
+
 •  Cost-optimized AWS architectures
 
 **🧠 Engineering Philosophy**
 
 • Build simple, scalable systems
+
 • Design with observability first
+
 • Optimize performance and reliability
+
 • Automate everything possible
 
 **🛠 Tech Stack**
